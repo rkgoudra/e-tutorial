@@ -5,5 +5,9 @@ public class Calc {
 		int a=10,b=20;
 		int sum=a+b;
 		System.out.println(sum);
+
+		int c=30;
+	int mul=a*c;
+	System.out.println(mul);
 	}
 }
