@@ -9,5 +9,9 @@ public class Calc {
 		int c=30;
 	int mul=a*c;
 	System.out.println(mul);
+int d=40;
+int div=d/b;
+System.out.println(div);
+
 	}
 }
